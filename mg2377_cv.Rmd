@@ -36,10 +36,18 @@ Researcher (Dublin) \hfill 1899-1935
 
 # Education
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+*Harvard University*, A.B. Integrative Biology \hfill 1899
 
 
 # Publications
+
+*COMPLETED*
+1. Garcia, M. 2021.“Improved Population-Level Monitoring of Critically Endangered North Atlantic Right Whales
+(Eubalaena glacialis) Using Passive Acoustic Monitoring.” Undergraduate Senior Thesis for the Harvard Department of Organismic & Evolutionary Biology. Advised by Dr. Holger Klinck. Grade: Exceptional.
+
+*IN PREPARATION*
+2. Garcia, M, Rahaman, A, Madhusudhana, S, Hudak, C, Mayo, C, Steel, D, Baker, S, Klinck, H. “Comparing visual
+and acoustic survey methods to estimate abundance and distribution of critically endangered North Atlantic right whales in Cape Cod Bay, MA, USA.” In preparation for *Methods in Ecology and Evolution.*
 
 ## Books
 
